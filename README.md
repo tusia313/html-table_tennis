@@ -5,6 +5,8 @@
 It's a veeery simple webpage built purely in HTML to showcase a Table Tennis tournaments results, by using HTML Table elements and Image elements.
 
 ## First look
+--
+--
 
 ![Table tennis page](./img/screen_1.png)
 
