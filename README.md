@@ -6,9 +6,9 @@ It's a veeery simple webpage built purely in HTML to showcase a Table Tennis tou
 
 ## First look
 
-![Table tennis page][screen_1]
+![Table tennis page][page]
 
-[screen_1]: https://github.com/tusia313/html-table_tennis/img/screen_1.png"screen_1"
+[page]: https://github.com/tusia313/html-table_tennis/img/screen_1.png "screen_1"
 
 ## Technology
 
