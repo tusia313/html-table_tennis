@@ -1,4 +1,4 @@
-# Table tennis project
+#  🎾 Table tennis project 🎾
 
 ## What is about?
 
@@ -8,7 +8,7 @@ It's a veeery simple webpage built purely in HTML to showcase a Table Tennis tou
 
 ![alt text][screen_1]
 
-[screen_1]: https://github.com/tusia313/html-table_tennis/img/screenshots/screen_1.png "screen_1"
+[screen_1]: https://github.com/tusia313/html-table_tennis/img/screen_1.png "screen_1"
 
 ## Technology
 
